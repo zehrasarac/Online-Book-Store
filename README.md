@@ -20,7 +20,8 @@ Sepet fonksiyonelliğini yönetmek için PHP oturumlarını kullanın.
 Ana sayfa ve kitap detay sayfasını oluşturun.
 Arama fonksiyonelliği için JavaScript ile PHP API'larına AJAX çağrıları yapın.
 Sepet işlemleri için JavaScript kullanarak kullanıcı arayüzünü güncelleyin.
-![Screenshot 2024-07-29 134046](https://github.com/user-attachments/assets/30a244e3-e717-4e6b-9529-614e381fc71c)
-![Screenshot 2024-07-29 134130](https://github.com/user-attach![Screenshot 2024-07-29 134144](https://github.com/user-attachments/assets/299220ee-2531-4b87-97ec-284cd077fffd)
-ments/assets/76f0e191-6c42-4ac0-859e-68a3e9659786)
-![Screenshot 2024-07-29 134201](https://github.com/user-attachments/assets/1cd448a9-76f8-41c9-9c6b-07774ec1246c)
+![Screenshot 2024-07-29 134046](https://github.com/user-attachments/assets/dd24acd6-ca8d-4b09-949e-5d9921b15352)
+![Screenshot 2024-07-29 134130](https://github.com/user-attachments/assets/8ab83d9c-65fa-4c84-a721-2aa62524c18f)
+![Screenshot 2024-07-29 134144](https://github.com/user-attachments/assets/05e5e5da-af1e-40d9-9e94-0636f4eb1c77)
+![Screenshot 2024-07-29 134201](https://github.com/user-attachments/assets/a8f1fe41-f291-412e-8335-1d29cb671fdc)
+
